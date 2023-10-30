@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d3c6f3454592841d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e27f12c1eee2f321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78f3e336ee241a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16fd10bbba18f105",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ca68ee0647343e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c08bb961c1f6d01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e45d71c0f3d7096",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71f4c5b05070b795",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a54f5acceefa51e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "9b3be75922b86724",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de9092456e48a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d550195a7ad966",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f31feac9c24d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9612384f498457e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0273bb06ca7141f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e78f3e336ee241a7",
+  "lastOpenFiles": [
+    "README.md",
+    "MyWiki/Networking/Configuration/Untitled.canvas",
+    "MyWiki/Networking/Configuration/Raspi as a Router.md",
+    "MyWiki/python/Pandas.md",
+    "MyWiki/Networking/Configuration/Untitled",
+    "MyWiki/Networking/Configuration",
+    "MyWiki/Networking",
+    "Thesis/papers/fuzzing/bulekov-linux_kernel_fuzzing_without_syscall_descriptions-NDSS-2023.pdf",
+    "Scientific Working.md",
+    "Thesis/papers/fuzzing/maier-unicorefuzz_viability_of_emulation_for_kernelspace_fuzzing-usenix-2019.pdf",
+    "Thesis/papers/fuzzing/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
+    "Thesis/papers/fuzzing/schumilo-kAFL_hardware_assisted_feedback_fuzzing_OS_kernels-USENIX-2017.pdf",
+    "Thesis/papers/fuzzing/schumilo-hardware_assisted_feedback_fuzzing_for_kernels-USENIX-2017.pdf",
+    "Thesis/papers/fuzzing/scharnovski-FUZZWARE_mmio_modeling_for_firmware_fuzzing-USENIX-22.pdf",
+    "Thesis/papers/fuzzing/kim-HFL_hybrid_fuzzing_on_linux_kernel-NDSS-2020.pdf",
+    "MyWiki/Operating Systems/OS Kernel.md",
+    "MyWiki/Operating Systems/Linux Kernel Documentation.md",
+    "MyWiki/Operating Systems/Virtual Memory.md",
+    "MyWiki/Operating Systems/User and Kernel Space.md",
+    "MyWiki/System Security/Fuzzing.md",
+    "MyWiki/System Security/Symbolic Execution.md",
+    "MyWiki/System Security/Basic Concepts of Fuzzing.md",
+    "link_files/Operating Systems.md",
+    "Thesis/SoK - The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing.md",
+    "Thesis/Glossary.md",
+    "Thesis/Seminar Sessions/25102023_scientific_working.md",
+    "Thesis/Seminar Sessions/18102023_kickoff.md",
+    "papers/sok/wang-SOK_greybox_fuzzing-china_defense.pdf.md",
+    "link_files/Research Methodology 1.md",
+    "link_files/Basics.md",
+    "images/virtual_address_resolution.png",
+    "images/user_and_kernel_space.png",
+    "link_files/Seminar.md",
+    "link_files/Fuzzing.md",
+    "Thesis/Masterarbeit/Greybox Fuzzing.md",
+    "link_files/Kernel.md",
+    "link_files/Fuzzing links.md",
+    "link_files/Symbolic Execution.md",
+    "link_files/Memory.md",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap@2x.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullMiddle@2x.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullMiddle.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullLeftEndcap@2x.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullLeftEndcap.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarEmptyRightEndcap@2x.png",
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarEmptyRightEndcap.png"
+  ]
+}
