@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e27f12c1eee2f321",
+        "id": "fce1c84d9cfa0d71",
         "type": "tabs",
         "children": [
           {
-            "id": "e78f3e336ee241a7",
+            "id": "537d477ed2cf2730",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
-                "mode": "source",
-                "source": false
+                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf"
               }
             }
           }
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 493.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b3be75922b86724",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
+                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md",
+                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyWiki/Networking/Configuration/Raspi as a Router.md"
+                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf"
               }
             }
           }
@@ -154,27 +153,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78f3e336ee241a7",
+  "active": "537d477ed2cf2730",
   "lastOpenFiles": [
-    "README.md",
-    "MyWiki/Networking/Configuration/Untitled.canvas",
-    "MyWiki/Networking/Configuration/Raspi as a Router.md",
-    "MyWiki/python/Pandas.md",
-    "MyWiki/Networking/Configuration/Untitled",
-    "MyWiki/Networking/Configuration",
-    "MyWiki/Networking",
+    "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.md",
+    "Thesis/papers/fuzzing/proposed/corina",
+    "Thesis/papers/fuzzing/proposed/fioraldi-afl_plusplus-USENIX-2020.pdf",
+    "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
     "Thesis/papers/fuzzing/bulekov-linux_kernel_fuzzing_without_syscall_descriptions-NDSS-2023.pdf",
-    "Scientific Working.md",
-    "Thesis/papers/fuzzing/maier-unicorefuzz_viability_of_emulation_for_kernelspace_fuzzing-usenix-2019.pdf",
-    "Thesis/papers/fuzzing/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
-    "Thesis/papers/fuzzing/schumilo-kAFL_hardware_assisted_feedback_fuzzing_OS_kernels-USENIX-2017.pdf",
-    "Thesis/papers/fuzzing/schumilo-hardware_assisted_feedback_fuzzing_for_kernels-USENIX-2017.pdf",
-    "Thesis/papers/fuzzing/scharnovski-FUZZWARE_mmio_modeling_for_firmware_fuzzing-USENIX-22.pdf",
-    "Thesis/papers/fuzzing/kim-HFL_hybrid_fuzzing_on_linux_kernel-NDSS-2020.pdf",
-    "MyWiki/Operating Systems/OS Kernel.md",
-    "MyWiki/Operating Systems/Linux Kernel Documentation.md",
+    "pre-scouted/zou-SyzScope_revealing_highrisk_sec_impacts_of_fuzzer_exposed_bugs_in_linux_kernel-USENIX-2022.pdf",
+    "pre-scouted/wang-SYZVEGAS_beating_kernel_fuzzing_odds_with_reinforcement_learning-USENIX-2021.pdf",
+    "pre-scouted/wang-analyzing_impact_of_coverage_metrics_greybox_fuzzing-RAID-19.pdf",
+    "pre-scouted/sun-KSG_augmenting_kernel_fuzzing_with_syscall_spec_generation-USENIX-2022.pdf",
+    "pre-scouted/song-PeriScope_probing_and_fuzzing_for_hardware_OS_boundary-NDSS-19.pdf",
+    "pre-scouted/shi-industry_practice_covguide_linux_kernel_fuzzing-ACM-2019.pdf",
+    "MyWiki/python/Pandas.md",
+    "MyWiki/python/NetworkX.md",
+    "MyWiki/python/Jupyter Notebooks.md",
+    "README.md",
+    "wang-SOK_greybox_fuzzing-china_defense.pdf.md",
     "MyWiki/Operating Systems/Virtual Memory.md",
     "MyWiki/Operating Systems/User and Kernel Space.md",
+    "MyWiki/Operating Systems/OS Kernel.md",
+    "MyWiki/Operating Systems/Linux Kernel Documentation.md",
+    "MyWiki/Networking/Configuration/Raspi as a Router.md",
+    "MyWiki/Networking/Configuration/Untitled.canvas",
+    "Scientific Working.md",
     "MyWiki/System Security/Fuzzing.md",
     "MyWiki/System Security/Symbolic Execution.md",
     "MyWiki/System Security/Basic Concepts of Fuzzing.md",
@@ -191,10 +194,6 @@
     "link_files/Seminar.md",
     "link_files/Fuzzing.md",
     "Thesis/Masterarbeit/Greybox Fuzzing.md",
-    "link_files/Kernel.md",
-    "link_files/Fuzzing links.md",
-    "link_files/Symbolic Execution.md",
-    "link_files/Memory.md",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap@2x.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullMiddle@2x.png",
