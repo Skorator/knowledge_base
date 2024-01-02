@@ -7,5 +7,5 @@ Instead of extending fuzzers in pursuit of high/full code coverage, grey box fuz
 Originally directed fuzzers based on symbolic execution. Most fuzzers are coverage based (cover as many program paths as possible. Since bugs are not equally distributed in code, this is neither effective, nor feasible for large code bases. 
 
 Links: 
-[[link_files/Fuzzing|Fuzzing]]
+[[MyWiki/System Security/Fuzzing/Fuzzing|Fuzzing]]
 [[SoK]]

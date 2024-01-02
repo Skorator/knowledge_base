@@ -7,3 +7,6 @@ An interface aware fuzzer. Generates valid input for kernel drivers automaticall
 - *Automated driver analysis:* Framework automatically analyzes the kernel source, identifying ioctl entry points, corresponding structures and device file names
 - *DIFUZE Prototype:* [Corina Difuze UCSB](www.github.com/ucsb-seclab/difuze)
 
+[[MyWiki/System Security/Fuzzing/Fuzzing|Fuzzing]]
+[[Kernel]]
+

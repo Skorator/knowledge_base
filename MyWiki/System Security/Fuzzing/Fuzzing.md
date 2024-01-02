@@ -5,11 +5,14 @@
 
 # General Vocabulary: 
 
-- Basic Block: 
+- **Basic Block**: 
 	- A straight-line code segment without branches except for the entry and outward branch. Has exactly one entry point and out exit point
 	- Usually created by compilers in the first step of compiling programs. The compiler marks *block boundaries*, which are instructions that can begin or end a block by transferring or accepting control. Listings are then cut at these positions, which yields basic blocks.
 	- [More](https://en.wikipedia.org/wiki/Basic_block)
 
+- **Edges**: The boundary of an input e.g. lower and upper bounds of ranges or buffer sizes
+- **Mutator**: 
+- **Seeds**: Set of interesting inputs that serve as starting points for a fuzzer
 ##### Weblinks: 
 - [AFL-FUZZ](https://afl-1.readthedocs.io/en/latest/index.html)
 - [AFL++ Documentation](https://aflplus.plus/docs/)
@@ -24,5 +27,4 @@
 
 
 Links
-[[link_files/Fuzzing|Fuzzing]]
 [[Basics]]

@@ -23,7 +23,8 @@ There are multiple components needed to perform Virtual Memory mapping.
 
 ![[virtual_address_resolution.png]]
 
-
+## Two and Multilevel paging
+- https://www.geeksforgeeks.org/two-level-paging-and-multi-level-paging-in-os/
 Links: 
 [[Basics]]
 [[Virtual Memory]]

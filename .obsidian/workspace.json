@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fce1c84d9cfa0d71",
+        "id": "14d6f5f0978c53dc",
         "type": "tabs",
         "children": [
           {
-            "id": "537d477ed2cf2730",
+            "id": "18a2f4ef901ac27a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf"
+                "file": "Thesis/papers/fuzzing/scouted/hao-demystifying_dependency_challenge_kernel_fuzzing-ICSE-2022.pdf"
               }
             }
           }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5,
-    "collapsed": true
+    "width": 505.5
   },
   "right": {
     "id": "9b3be75922b86724",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
+                "file": "Thesis/papers/fuzzing/scouted/hao-demystifying_dependency_challenge_kernel_fuzzing-ICSE-2022.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
+                "file": "Thesis/papers/fuzzing/scouted/hao-demystifying_dependency_challenge_kernel_fuzzing-ICSE-2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf"
+                "file": "Thesis/papers/fuzzing/scouted/hao-demystifying_dependency_challenge_kernel_fuzzing-ICSE-2022.pdf"
               }
             }
           }
@@ -153,54 +152,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "537d477ed2cf2730",
+  "active": "18a2f4ef901ac27a",
   "lastOpenFiles": [
-    "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.md",
-    "Thesis/papers/fuzzing/proposed/corina",
-    "Thesis/papers/fuzzing/proposed/fioraldi-afl_plusplus-USENIX-2020.pdf",
+    "Thesis/papers/fuzzing/scouted/mcnally-fuzzing_the_state_of_the_art_IDK_2012.pdf",
+    "Thesis/papers/fuzzing/proposed/maier-unicorefuzz_emulation_for_kernelspace_fuzzing-USENIX-2019.pdf",
+    "Thesis/papers/fuzzing/proposed/maier-unicorefuzz-summary.md",
+    "Thesis/papers/fuzzing/proposed/schumilo-kafl_hardware_assisted_feedback_fuzzing_for_kernels-USENIX-2017.pdf",
+    "Thesis/papers/fuzzing/proposed/schumilo-kafl-summary.md",
+    "Thesis/papers/fuzzing/proposed/fioraldi-afl_plusplus-woot-2020.pdf",
+    "Thesis/papers/fuzzing/proposed/fioraldi-afl_plusplus-summary.md",
     "Thesis/papers/fuzzing/proposed/corina-difuze_interface_aware_fuzzing_for_kernel_drivers-ACM-2017.pdf",
-    "Thesis/papers/fuzzing/bulekov-linux_kernel_fuzzing_without_syscall_descriptions-NDSS-2023.pdf",
-    "pre-scouted/zou-SyzScope_revealing_highrisk_sec_impacts_of_fuzzer_exposed_bugs_in_linux_kernel-USENIX-2022.pdf",
-    "pre-scouted/wang-SYZVEGAS_beating_kernel_fuzzing_odds_with_reinforcement_learning-USENIX-2021.pdf",
-    "pre-scouted/wang-analyzing_impact_of_coverage_metrics_greybox_fuzzing-RAID-19.pdf",
-    "pre-scouted/sun-KSG_augmenting_kernel_fuzzing_with_syscall_spec_generation-USENIX-2022.pdf",
-    "pre-scouted/song-PeriScope_probing_and_fuzzing_for_hardware_OS_boundary-NDSS-19.pdf",
-    "pre-scouted/shi-industry_practice_covguide_linux_kernel_fuzzing-ACM-2019.pdf",
+    "Thesis/papers/fuzzing/scouted/nourry-human_side_of_fuzzing-acm-2023.pdf",
+    "Thesis/papers/fuzzing/scouted/idk-Fuzzing_Challenges_and_Reflections-IEEE_software-2021.pdf",
+    "Thesis/papers/fuzzing/scouted/miller-empirical_study_of_unix_utilities-ACM-1990.pdf",
+    "Thesis/papers/fuzzing/scouted/hao-demystifying_dependency_challenge_kernel_fuzzing-ICSE-2022.pdf",
+    "Thesis/PAPER OUTLINE.md",
+    "Thesis/papers/fuzzing/scouted/rawat-VUzzer_application_aware_evolutionary_fuzzing-NDSS-2017.pdf",
     "MyWiki/python/Pandas.md",
-    "MyWiki/python/NetworkX.md",
     "MyWiki/python/Jupyter Notebooks.md",
     "README.md",
-    "wang-SOK_greybox_fuzzing-china_defense.pdf.md",
-    "MyWiki/Operating Systems/Virtual Memory.md",
-    "MyWiki/Operating Systems/User and Kernel Space.md",
-    "MyWiki/Operating Systems/OS Kernel.md",
-    "MyWiki/Operating Systems/Linux Kernel Documentation.md",
-    "MyWiki/Networking/Configuration/Raspi as a Router.md",
-    "MyWiki/Networking/Configuration/Untitled.canvas",
+    "Thesis/papers/fuzzing/proposed/images/schumilo-kafl-howitworks.png",
+    "Thesis/papers/fuzzing/proposed/corina-difuze-summary.md",
+    "MyWiki/Operating Systems/Hypervisors/KVM.md",
+    "MyWiki/Operating Systems/Hypervisors/Virtualisation.md",
+    "MyWiki/Operating Systems/Hypervisors/Hypervisors.md",
+    "Hypervisors.md",
     "Scientific Working.md",
-    "MyWiki/System Security/Fuzzing.md",
+    "MyWiki/System Security/Fuzzing/Fuzzing.md",
     "MyWiki/System Security/Symbolic Execution.md",
-    "MyWiki/System Security/Basic Concepts of Fuzzing.md",
-    "link_files/Operating Systems.md",
-    "Thesis/SoK - The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing.md",
-    "Thesis/Glossary.md",
-    "Thesis/Seminar Sessions/25102023_scientific_working.md",
-    "Thesis/Seminar Sessions/18102023_kickoff.md",
-    "papers/sok/wang-SOK_greybox_fuzzing-china_defense.pdf.md",
-    "link_files/Research Methodology 1.md",
+    "Thesis/papers/fuzzing/scouted/fleischer-ACTOR-summary.md",
     "link_files/Basics.md",
+    "MyWiki/System Security/Fuzzing/Basic Concepts of Fuzzing.md",
+    "MyWiki/Operating Systems/Linux/Linux Kernel Documentation.md",
+    "MyWiki/Operating Systems/Linux/KASAN.md",
+    "link_files/Virtualisation.md",
+    "link_files/Symbolic Execution.md",
+    "link_files/Research Methodology.md",
+    "link_files/SoK.md",
+    "link_files/Operating Systems.md",
+    "MyWiki/Networking/Configuration/Untitled.canvas",
     "images/virtual_address_resolution.png",
     "images/user_and_kernel_space.png",
-    "link_files/Seminar.md",
-    "link_files/Fuzzing.md",
-    "Thesis/Masterarbeit/Greybox Fuzzing.md",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap@2x.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullRightEndcap.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullMiddle@2x.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullMiddle.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullLeftEndcap@2x.png",
     "Seminararbeit/xnu/osfmk/console/art/ProgressBarFullLeftEndcap.png",
-    "Seminararbeit/xnu/osfmk/console/art/ProgressBarEmptyRightEndcap@2x.png",
-    "Seminararbeit/xnu/osfmk/console/art/ProgressBarEmptyRightEndcap.png"
+    "Seminararbeit/xnu/osfmk/console/art/ProgressBarEmptyRightEndcap@2x.png"
   ]
 }
